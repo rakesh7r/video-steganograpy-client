@@ -1,0 +1,17 @@
+.header{
+  padding:0.7rem;
+  font-size: 1.8rem;
+  font-family: 'Suez One', serif;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+  box-shadow: 0 0 10px rgb(192, 192, 192);
+  position:fixed;
+  width: 100vw;
+  margin-top:-12vh !important;
+}
+.main{
+  margin-top: 12vh;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+}

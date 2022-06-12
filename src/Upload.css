@@ -1,0 +1,25 @@
+.upload-container{
+    padding:0.9rem;
+    border: 1px solid #eee;
+    width:40vw;
+    /* height:70vh; */
+    height: fit-content;
+    align-items: center;
+}
+.upload-btn{
+    border: 1px solid rgb(207, 207, 207);
+    width:fit-content;
+    padding:0.9rem
+}
+.ant-upload-text{
+    font-size: 0.9rem;
+}
+.ant-upload-hint{
+    font-size: 0.9rem;
+    color: gray;
+}
+.encode-btn{
+    display: flex;
+    justify-content: center;
+    margin-top:0.5rem;
+}
